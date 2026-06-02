@@ -1,8 +1,11 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : RIYAN NAFFA NUSAFARA
+
 NIU : 516897
+
 Sesi : 1
+
 Secret String : dfda35594d71c56a5df75f8901b718e7cce15aa5530107a81ac480861e824f9820260602022656
 
 ## Checklist Responsi
